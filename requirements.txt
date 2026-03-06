@@ -48,7 +48,6 @@ exceptiongroup==1.2.2
 exchangelib==5.5.1
 executing==2.2.0
 extract-msg==0.55.0
-faiss-cpu==1.11.0.post1
 fastjsonschema==2.21.1
 fastkml==1.1.0
 filelock==3.18.0
